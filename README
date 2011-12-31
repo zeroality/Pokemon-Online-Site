@@ -1,0 +1,5 @@
+This is the repository hosting all the files for the Pokemon Online website at http://pokemon-online.eu
+
+We are using .shtml with SSI (Server Side Includes) so we can serve up a few pages with a consistent template. All template files are the ones with .html extension and the actual pages are in the .shtml extension.
+
+Feel free to add things as needed and submit a pull request. All changes should be reviewed by webmaster before committing to ensure no issues arise.

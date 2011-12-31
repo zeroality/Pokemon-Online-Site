@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!--#include virtual="head.html" -->
+  <title>Themes | Pok&eacute;mon Online - Battle Simulator</title>
+</head>
+
+<body id="index" class="home" onload='boot();'>
+
+<!--#include virtual="banner.html" -->
+
+<!--#include virtual="nav.html" -->
+
+<!-- ### BEGIN Page Content Area ### -->
+
+    <h5><strong>Pok&eacute;mon Online Themes</strong></h5>
+    <br />
+    <p>The simulator allows for users to create themes and distribute them for other people to download. We have over a hundred to choose from, thanks to the tireless efforts of our users. Here are a few of the most popular themes, and more are available on the <a href="http://pokemon-online.eu/forums/forumdisplay.php?28-Arts-and-Graphics">Arts & Graphics</a> forum.</p>
+    
+    <div class="themebox left">
+      <div class="toprow"><a href="imgs/theme_dd1.jpg"><img src="imgs/theme_dd1t.jpg" alt="Welcome Screen" title="Click to enlarge image." /></a> <a href="imgs/theme_dd2.jpg"><img src="imgs/theme_dd2t.jpg" alt="Main Chat" title="Click to enlarge image." /></a> <a href="imgs/theme_dd3.jpg"><img src="imgs/theme_dd3t.jpg" alt="Battle Window" title="Click to enlarge image." /></a></div>
+      <div class="bottomrow"><a href="imgs/theme_dd4.jpg"><img src="imgs/theme_dd4t.jpg" alt="Trainer Information" title="Click to enlarge image." /></a> <a href="imgs/theme_dd5.jpg"><img src="imgs/theme_dd5t.jpg" alt="Teambuilder" title="Click to enlarge image." /></a> <a href="imgs/theme_dd6.jpg"><img src="imgs/theme_dd6t.jpg" alt="Challenge Window" title="Click to enlarge image." /></a></div>
+      <div class="rightinfo"><span class="themename">Dark Dreams</span> <span class="themeauthor">by HeroOfSinnoh</span><br /><span class="themelink"><a href="http://pokemon-online.eu/theme/DarkDreams.zip">Download</a></span></div>
+    </div>
+
+    <div class="themebox right">
+      <div class="toprow"><a href="imgs/theme_bw1.jpg"><img src="imgs/theme_bw1t.jpg" alt="Welcome Screen" title="Click to enlarge image." /></a> <a href="imgs/theme_bw2.jpg"><img src="imgs/theme_bw2t.jpg" alt="Main Chat" title="Click to enlarge image." /></a> <a href="imgs/theme_bw3.jpg"><img src="imgs/theme_bw3t.jpg" alt="Battle Window" title="Click to enlarge image." /></a></div>
+      <div class="bottomrow"><a href="imgs/theme_bw4.jpg"><img src="imgs/theme_bw4t.jpg" alt="Trainer Information" title="Click to enlarge image." /></a> <a href="imgs/theme_bw5.jpg"><img src="imgs/theme_bw5t.jpg" alt="Teambuilder" title="Click to enlarge image." /></a> <a href="imgs/theme_bw6.jpg"><img src="imgs/theme_bw6t.jpg" alt="Challenge Window" title="Click to enlarge image." /></a></div>
+      <div class="rightinfo"><span class="themename">Pok&eacute;mon B/W</span> <span class="themeauthor">by Katakiri</span><br /><span class="themelink"><a href="http://pokemon-online.eu/theme/PokemonBW.zip">Download</a></span></div>
+    </div>
+
+    <div class="themebox left">
+      <div class="toprow"><a href="imgs/theme_pp1.jpg"><img src="imgs/theme_pp1t.jpg" alt="Welcome Screen" title="Click to enlarge image." /></a> <a href="imgs/theme_pp2.jpg"><img src="imgs/theme_pp2t.jpg" alt="Main Chat" title="Click to enlarge image." /></a> <a href="imgs/theme_pp3.jpg"><img src="imgs/theme_pp3t.jpg" alt="Battle Window" title="Click to enlarge image." /></a></div>
+      <div class="bottomrow"><a href="imgs/theme_pp4.jpg"><img src="imgs/theme_pp4t.jpg" alt="Trainer Information" title="Click to enlarge image." /></a> <a href="imgs/theme_pp5.jpg"><img src="imgs/theme_pp5t.jpg" alt="Teambuilder" title="Click to enlarge image." /></a> <a href="imgs/theme_pp6.jpg"><img src="imgs/theme_pp6t.jpg" alt="Challenge Window" title="Click to enlarge image." /></a></div>
+      <div class="rightinfo"><span class="themename">Pikachu Paradise</span> <span class="themeauthor">by Darkness</span><br /><span class="themelink"><a href="http://pokemon-online.eu/theme/PikachuParadise.zip">Download</a></span></div>
+    </div>
+    
+    <div class="themebox right">
+      <div class="toprow"><a href="imgs/theme_st1.jpg"><img src="imgs/theme_st1t.jpg" alt="Welcome Screen" title="Click to enlarge image." /></a> <a href="imgs/theme_st2.jpg"><img src="imgs/theme_st2t.jpg" alt="Main Chat" title="Click to enlarge image." /></a> <a href="imgs/theme_st3.jpg"><img src="imgs/theme_st3t.jpg" alt="Battle Window" title="Click to enlarge image." /></a></div>
+      <div class="bottomrow"><a href="imgs/theme_st4.jpg"><img src="imgs/theme_st4t.jpg" alt="Trainer Information" title="Click to enlarge image." /></a> <a href="imgs/theme_st5.jpg"><img src="imgs/theme_st5t.jpg" alt="Teambuilder" title="Click to enlarge image." /></a> <a href="imgs/theme_st6.jpg"><img src="imgs/theme_st6t.jpg" alt="Challenge Window" title="Click to enlarge image." /></a></div>
+      <div class="rightinfo"><span class="themename">Stream</span> <span class="themeauthor">by Gilad</span><br /><span class="themelink"><a href="http://pokemon-online.eu/theme/Stream.zip">Download</a></span></div>
+    </div>
+    
+    <div class="themebox left">
+      <div class="toprow"><a href="imgs/theme_mr1.jpg"><img src="imgs/theme_mr1t.jpg" alt="Welcome Screen" title="Click to enlarge image." /></a> <a href="imgs/theme_mr2.jpg"><img src="imgs/theme_mr2t.jpg" alt="Main Chat" title="Click to enlarge image." /></a> <a href="imgs/theme_mr3.jpg"><img src="imgs/theme_mr3t.jpg" alt="Battle Window" title="Click to enlarge image." /></a></div>
+      <div class="bottomrow"><a href="imgs/theme_mr4.jpg"><img src="imgs/theme_mr4t.jpg" alt="Trainer Information" title="Click to enlarge image." /></a> <a href="imgs/theme_mr5.jpg"><img src="imgs/theme_mr5t.jpg" alt="Teambuilder" title="Click to enlarge image." /></a> <a href="imgs/theme_mr6.jpg"><img src="imgs/theme_mr6t.jpg" alt="Challenge Window" title="Click to enlarge image." /></a></div>
+      <div class="rightinfo"><span class="themename">Rise of Mewtwo</span> <span class="themeauthor">by Nexus</span><br /><span class="themelink"><a href="http://pokemon-online.eu/theme/RiseofMewtwo.zip">Download</a></span></div>
+    </div>
+    
+    <div class="themebox right">
+      <div class="toprow"><a href="imgs/theme_pn1.jpg"><img src="imgs/theme_pn1t.jpg" alt="Welcome Screen" title="Click to enlarge image." /></a> <a href="imgs/theme_pn2.jpg"><img src="imgs/theme_pn2t.jpg" alt="Main Chat" title="Click to enlarge image." /></a> <a href="imgs/theme_pn3.jpg"><img src="imgs/theme_pn3t.jpg" alt="Battle Window" title="Click to enlarge image." /></a></div>
+      <div class="bottomrow"><a href="imgs/theme_pn4.jpg"><img src="imgs/theme_pn4t.jpg" alt="Trainer Information" title="Click to enlarge image." /></a> <a href="imgs/theme_pn5.jpg"><img src="imgs/theme_pn5t.jpg" alt="Teambuilder" title="Click to enlarge image." /></a> <a href="imgs/theme_pn6.jpg"><img src="imgs/theme_pn6t.jpg" alt="Challenge Window" title="Click to enlarge image." /></a></div>
+      <div class="rightinfo"><span class="themename">Propane Nightmare</span> <span class="themeauthor">by Top</span><br /><span class="themelink"><a href="http://pokemon-online.eu/theme/PropaneNightmare.zip">Download</a></span></div>
+    </div>
+    <br class="clear" />
+ 
+<!-- ### END Page Content Area ### -->
+
+<!--#include virtual="footer.html" -->
+
+<!--#include virtual="sidebar.html" -->
+
+<!--#include virtual="end.html" -->
+</body>
+</html>

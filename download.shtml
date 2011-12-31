@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!--#include virtual="head.html" -->
+  <title>Downloads | Pok&eacute;mon Online - Battle Simulator</title>
+</head>
+
+<body id="index" class="home" onload='boot();'>
+
+<!--#include virtual="banner.html" -->
+
+<!--#include virtual="nav.html" -->
+
+<!-- ### BEGIN Page Content Area ### -->
+
+    <h5><strong>Pok&eacute;mon Online Downloads</strong></h5>
+    <br />
+    <p>Pok&eacute;mon Online is available for Windows, Mac, Linux, and Android. The wiki has <a href="http://wiki.pokemon-online.eu/view/Installation">installation instructions</a> for each version.</p>
+    
+    <div class="downbox winbox left"><img src="imgs/windows.png" alt="Windows" /> <span class="downversion">1.0.52</span> <div class="downtext"><a href="http://sourceforge.net/projects/pogeymon-online/files/Pokemon-Online-Setup-RBY.exe/download">Download for Windows</a><span class="warning">Installs to user folder to avoid permission issues.</span></div> <span class="downsys">(XP, 2000, Vista, Win7)</span></div>
+    
+    <div class="downbox macbox right"><img src="imgs/mac.png" alt="Mac" /> <span class="downversion">1.0.52</span> <div class="downtext"><a href="http://sourceforge.net/projects/pogeymon-online/files/Pokemon-Online-1.0.52.dmg/download">Download for Mac</a><span class="warning">See <a href="http://pokemon-online.eu/forums/showthread.php?836-How-to-install-Pokemon-Online-%28completely-step-by-step%29-Mac">this thread</a> for running Windows version on Wine.</span></div> <span class="downsys">(Snow Leopard, Lion)</span></div>
+    
+    <div class="downbox nixbox left"><img src="imgs/linux.png" alt="Linux" /> <span class="downversion">1.0.30 PL1</span> <div class="downtext"><a href="http://serenareem.net/files/po/po-32bit.tar.gz">Download (32-bit)</a> - <a href="http://serenareem.net/files/po/po-64bit.tar.gz">Download (64-bit)</a><span class="warning">Requires Qt 4.6 or later, libboost-system1.42.0 and libzip.</span></div> <span class="downsys">(Linux - All Distributions)</span></div>
+    
+    <div class="downbox andbox right"><img src="imgs/android.png" alt="Android" /> <span class="downversion">0.8.2</span> <div class="downtext"><a href="http://pokemon-online.eu/forums/showthread.php?7907-Pokemon-Online-Android-Release-v0.8.2">Installing on Android</a><span class="warning">This is beta software, and is usable but not complete.</span></div> <span class="downsys">(2.2+)</span></div>
+    
+    <br class="clear" />
+    
+    <h5><strong>Server Downloads</strong></h5>
+    <br />
+    <p>We have server software available for Windows and Linux; the Mac build is not available due to stability issues. For instructions on hosting, check the <a href="http://wiki.pokemon-online.eu/view/Running_a_PO_Server">server tutorial</a>.</p>
+    
+    <p><strong>Windows</strong> (XP, 2000, Vista, Win7) - <a href="http://sourceforge.net/projects/pogeymon-online/files/pokeymon-server.7z/download">Download Server</a><br />
+    <strong>Linux</strong> (All Distributions) - The client download above includes the server binaries.</p>
+
+<!-- ### END Page Content Area ### -->
+
+<!--#include virtual="footer.html" -->
+
+<!--#include virtual="sidebar.html" -->
+
+<!--#include virtual="end.html" -->
+</body>
+</html>

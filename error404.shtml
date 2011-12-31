@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!--#include virtual="head.html" -->
+  <title>404 Error | Pok&eacute;mon Online - Battle Simulator</title>
+</head>
+
+<body id="index" class="home" onload='boot();'>
+
+<!--#include virtual="banner.html" -->
+
+<!--#include virtual="nav.html" -->
+
+<!-- ### BEGIN Page Content Area ### -->
+
+    <h5><img src="imgs/404pup.png" alt="404 Error" class="right error404" /> <strong>Pok&eacute;mon Online 404 Error</strong></h5>
+    <br />
+    <p>The page you were looking for could not be found. We have recently redesigned our website and some URLs may have been changed. If you cannot find what you are looking for using the navigation menu items, then you may consider utilizing either the <a href="http://wiki.pokemon-online.eu/view/Special:Search">wiki</a> or <a href="http://pokemon-online.eu/forums/search.php?search_type=1">forums'</a> search engine.</p>
+    
+    <p>If you still cannot find what you are looking for, feel free to message one of our <a href="http://pokemon-online.eu/forums/showgroups.php">staff members</a> or post a thread on the <a href="http://pokemon-online.eu/forums/forumdisplay.php?37-Website-Content">forums</a>. This will require a forum account however. Alternatively, you can visit our <a href="http://pokemon-online.eu">homepage</a>.</p>
+
+<!-- ### END Page Content Area ### -->
+
+<!--#include virtual="footer.html" -->
+
+<!--#include virtual="sidebar.html" -->
+
+<!--#include virtual="end.html" -->
+</body>
+</html>

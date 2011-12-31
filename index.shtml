@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!--#include virtual="head.html" -->
+  <title>Home | Pok&eacute;mon Online - Battle Simulator</title>
+</head>
+
+<body id="index" class="home" onload='boot();'>
+
+<!--#include virtual="banner.html" -->
+
+<!--#include virtual="nav.html" -->
+
+<!-- ### BEGIN Page Content Area ### -->
+    <h3><a href="http://pokemon-online.eu/forums/showthread.php?10869-1.0.52"><strong>Pokemon Online 1.0.52</strong></a></h3>
+    
+	<h6>Written by <a href="http://pokemon-online.eu/forums/member.php?42-Lamperi">Lamperi</a> on 30/Dec/2011, 13:50 PM</h6>
+	
+	<p>New version of Pokemon Online has been released.<br>
+<br>
+[<a href="http://sourceforge.net/projects/pogeymon-online/files/Pokemon-Online-Setup-RBY.exe/download" target="_blank" rel="nofollow">Windows</a>] [<a href="http://sourceforge.net/projects/pogeymon-online/files/Pokemon-Online-1.0.52.dmg/download" target="_blank" rel="nofollow">Mac</a>]<br>
+<br>
+<b> New Features:</b><br>
+<ul><li>Generation 1 battles following Pokemon Stadium 1 engine is finally added to the simulator. (nixeagle)</li>
+
+<li>Color Change Plugin for all you theme makers.</li>
+<li>Client flashing reworked. (Viderizer)</li>
+<li>Battles can be toggled to flash after moving. (Latios)</li>
+<li>Sort channels by name. (Latios)</li>
+<li>Updated Dreamworld events.</li>
+<li>Serverside Battle Logs Plugin.</li>
+<li>Battle window stays open after enemy closing it. (Lamperi)</li>
+<li>Server password. (Lamperi)</li>
+<li>Save user and server password. (Lamperi)</li>
+
+<li>New theme, Balance. (Deity)</li>
+</ul><br>
+<b> Bugfixes since 1.0.30-p1</b><br>
+<ul><li>Teambuilder sorts moves by accuracy and power correctly.</li>
+<li>Outrage + Protect fixed</li>
+<li>Bad Dream fix for gen 4.</li>
+<li>Steels won't get poisoned in gen 3 anymore.</li>
+<li>Reflect / Light Screen / Tailwind duration fixed for all gens.</li>
+<li>Minimum levels bug fixed.</li>
+
+<li>Wide Guard / Dark Void fixed.</li>
+<li>Rattled no longer activating after fainting.</li>
+<li>3rd gen doubles damage.</li>
+<li>Techinician Acrobat fixed.</li>
+<li>Solar beam fixed under rain.</li>
+<li>Synchronize + Toxic in 5th gen fixed.</li>
+<li>Thunder Wave + Lightningrod + Ground-type bug fixed.</li>
+<li>Ice-pokemon can not get frozen anymore in 2nd gen.</li>
+<li>Disable fixed.</li>
+
+<li>Draining moves + future attacks fixed.</li>
+<li>Chip Away like moves ignore evasion now.</li>
+<li>Sketch copying Sketch fixed.</li>
+<li>Pressure bugs fixed.</li>
+<li>Transform + Leppa bug fixed.</li>
+<li>Contact abiltiies + substitute</li>
+<li>Challenge Cup + alt formes</li>
+<li>Copycat fixes.</li>
+<li>Belly Drum in 2nd gen.</li>
+
+<li>Move fixes.</li>
+<li>Wrap / bind.</li>
+<li>Burn + Selfdestruct.</li>
+<li>Shell Bell + multihit moves.</li>
+<li>Magic Mirror in doubles.</li>
+<li>Red Card + no target.</li>
+<li>Heal Block + Ingrain.</li>
+<li>Mold Breaker + Magic Mirror.</li>
+<li>Destiny Knot.</li>
+
+<li>Present in 5th gen.</li>
+<li>Slow start fixed.</li>
+<li>Earthquake + Dig in doubles.</li>
+<li>Camouflage.</li>
+<li>Gen 5 Switchroo + Griseour Orb.</li>
+<li>Gen 5 Trick + Genesect drives</li>
+<li>Genesect formes!</li>
+<li>Infiltrator + Safe Guard.</li>
+<li>Toxic bug in 4th gen.</li>
+
+<li>Anger Point + sub in 5th gen.</li>
+<li>Inner Focus extra messages.</li>
+<li>Unnerve shows now a message.</li>
+<li>Snatch in doubles.</li>
+<li>3rd gen King's Rock.</li>
+<li>Chilan Berry bug fixed.</li>
+<li>Color Change bug.</li>
+<li>Healing Wish bug fixed.</li>
+<li>Telekinesis + OHKO bug fixed.</li>
+
+</ul>Plus lots of move fixes.<br>
+ <br>
+People to thank: coyotte508, nixeagle, Lamperi, Viderizer, Latios, Shadowfist, Deity!<br>
+<br>
+<font size="1">Seems like the server is a bit unstable at the moment, Server will be released officially after we get Beta to be stable.</font></p>
+	
+    <h3><a href="http://pokemon-online.eu/forums/showthread.php?10131-Pokemon-Online-on-Facebook-and-Twitter"><strong>Pokemon Online on Facebook and Twitter</strong></a></h3>
+
+    <h6>Written by <a href="http://pokemon-online.eu/forums/member.php?52-Eternal">Eternal</a> on 18/Nov/2011, 02:57 PM</h6>
+
+    <p>We have recently launched <a href="http://www.facebook.com/pages/PO-Battle-Simulator/236107523113831">our Facebook page</a> and <a href="https://twitter.com/#!/POSimulator">our Twitter account</a>. You can access our Facebook page by clicking <a href="http://www.facebook.com/pages/PO-Battle-Simulator/236107523113831">here</a> and our Twitter page by clicking <a href="https://twitter.com/#!/POSimulator">here</a>. Be sure to 'Like' the page if you have a Facebook account and/or 'Follow' us on Twitter! We will be regularly posting news regarding everything going around Pokemon Online. So you will be certain to be informed about what's going on regarding our simulator, metagame changes, forum community, server updates, and so on.</p>
+
+    <h3><a href="http://pokemon-online.eu/forums/showthread.php?9615-PO-YouTube-Channel-Subscribe!"><strong>PO YouTube Channel - Subscribe!</strong></a></h3>
+    
+    <h6>Written by <a href="http://pokemon-online.eu/forums/member.php?52-Eternal">Eternal</a> on 18/Oct/2011, 08:58 PM</h6>
+    
+    <p>Recently uploaded:</p>
+    
+    <p><object type="application/x-shockwave-flash" width="640" height="385" data="http://www.youtube.com/v/a4NB7uzqj_w">
+      <param name="movie" value="http://www.youtube.com/v/a4NB7uzqj_w" />
+      <param name="wmode" value="transparent" />
+    </object></p>
+
+    <p>We have launched our official YouTube channel a month ago and have begun to grow among the YouTube community. The purpose of our channel is to raise awareness of our simulator and to promote our competitive battling community. We have and look forward to creating videos correlating to this. We currently have videos uploaded consisting of our prestigious tournament battles, podcasts (talk shows), analyses, team of the weeks, battle of the weeks, simulator guides, etc. And we look forward to expanding both our YouTube channel and the content we're going to offer. So be sure to check out our channel and don't forget to <a href="http://www.youtube.com/subscription_center?add_user=POSimulator">subscribe</a>.</p>
+    
+    <h3><a href="http://pokemon-online.eu/forums/showthread.php?9228-PO-Wiki--All-systems-are-go"><strong>PO Wiki - All systems are go</strong></a></h3>
+
+    <h6>Written by <a href="http://pokemon-online.eu/forums/member.php?3-eric-the-espeon">eric the espeon</a> on 24/Sep/2011, 11:46 AM</h6>
+
+    <p><strong>The <a href="http://wiki.pokemon-online.eu/view/Main_Page">Pokemon Online Wiki</a> is live and public.</strong></p>
+
+    <p>It is of course very, very far from complete, though you may already find a good amount of useful content (over 160 <a href="http://wiki.pokemon-online.eu/index.php/Category:Analyses">analyses</a>, full all-gen movepools for every Pokemon along with other competitive data on the <a href="http://wiki.pokemon-online.eu/view/Pokemon">species pages</a>, <a href="http://wiki.pokemon-online.eu/view/Type">type chart</a>, and plenty of other fun pages). What has been written so far is merely a skeleton of what is to come, and we need your help to make that a reality. If you share our aims; to create a great resource for competitive Pokemon players, one which is open, embraces <a href="http://en.wikipedia.org/wiki/Radical_trust">radical trust</a>, is inviting, works with fellow communities, and is inclusive of a wide range of relevant information, or just want to build a part of something awesome, then you are invited to join. Find us on #PO Wiki on the main PO server, or on #PokemonOnline on irc.synirc.net.</p>
+
+    <p>Any user is welcome to edit any page they feel they can improve, or to create pages which would be useful to other players. Every page has a full edit history saved, so nothing can be permanently broken or lost, and any damage from harmful edits can be easily repaired. As the community develops and content matures, staff will be appointed who will watch over and ensure the quality of various pages and sections.</p>
+
+    <p>I'd like to thank a few of many contributors who made this possible, Jirachier for setting the wiki up initially and implementing the skin, Darkness for creating the logo and skin/main page design, coyotte508 for creating the program which this community is built around and asking me to build the wiki as well as his work on some important templates and data imports, zeroality for making things more efficient, and nixeagle for his work on importing base pages for items/moves/species/abilities as well as many other things, but perhaps most importantly convincing me to stick with it and make this thing ready to go public. I'd also like to thank all those writers, editors, and templaters who've put together most of what you will find, and provided many ideas to improve every aspect of the wiki. Keep it up people <img src="http://pokemon-online.eu/forums/images/smilies/smile.gif" border="0" alt="Smile" class="inlineimg" /></p>
+
+    <p>The site is still being improved, nixeagle and zeroality are working hard behind the scenes to optimize and add features which you should see popping up soon, but everything we need to build content is in place. So, come on over and play, let's fix everything!</p>
+
+    <h3><a href="http://pokemon-online.eu/forums/showthread.php?8864-1.0.30--Patch-1"><strong>1.0.30 - Patch 1</strong></a></h3>
+
+    <h6>Written by <a href="http://pokemon-online.eu/forums/member.php?1-coyotte508">coyotte508</a> on 04/Sep/2011, 09:36 PM</h6>
+
+    <p>So instead of introducing new version numbers for everything, tags!</p>
+
+    <p>The first patch of 1.0.30 introduces some improvements:</p>
+
+    <p><strong>Client Side:</strong><br />
+    - Channels don't 'flash' on events anymore (battle start, etc.)<br />
+    - Clients are able to display pokemon sprites in announcements and chat<br />
+    - More customizable stuff with themes.<br />
+    - Reverse text characters blocked from battles &amp; chat</p>
+
+    <p><strong>Server Side:</strong><br />
+    - Server bug about orbs is fixed<br />
+    - Technician now works on struggle<br />
+    - Server bug about tailwind is fixed</p>
+
+    <p><u><strong>How to display pokemon sprites?</strong></u><br />
+    &lt;img src=&quot;pokemon:num=151&amp;shiny=false&amp;gender=neutral&amp;ba  ck=false&amp;gen=2&quot; /&gt;<br />
+    &lt;img src=&quot;item:20&quot; /&gt;</p>
+
+    <p>For pokemon, all the parameters except the pokemon num are optional. Formes can be accessed with 493-4, for example.</p>
+
+    <p>So, if you want to display a mew in your trainer info, just do:<br />
+    &lt;img src=&quot;pokemon:151&amp;gen=2&quot;/&gt; for an old school%2</p>
+
+    <h3><a href="http://pokemon-online.eu/forums/showthread.php?8711-1.0.30"><strong>1.0.30</strong></a></h3>
+
+    <h6>Written by <a href="http://pokemon-online.eu/forums/member.php?1-coyotte508">coyotte508</a> on 29/Aug/2011, 02:48 AM</h6>
+
+    <p>Version 1.0.30 comes, after things like android client and replay viewer!</p>
+
+    <p>Reminding of android client: It's accessible <a href="http://code.google.com/p/pokemon-online-android/">here</a> and it's thread on PO <a href="http://pokemon-online.eu/forums/showthread.php?7907-Pokemon-Online-Android-Client-in-development-almost-alpha">here</a>. It allows you to behave like a PO client and all, meaning chat, channels, and battles! It can't teambuild yet, but since last PO update it can <a href="http://pokemon-online.eu/forums/showthread.php?8276-Teambuilder-update-Android-compatibility">load teams on PO through the use of QR Codes</a>. &lt;3 Android developers.</p>
+
+    <p>About the <a href="http://pokemon.aesoft.org/">replay viewer</a>, it was made by aeo. It allows you to convert PO log files into animated battles on your browser which look awesome. Since the latest update, changes to the log files have been made to facilitate the work of the replay viewer. It has been changed a bit though, so aeo may need a bit of time to update the replay viewer, but then it'll work great!</p>
+
+    <p>So that's it. Other changes have been made since last update, like the teambuilder loading fast now, and numerous bugfixes.</p>
+
+    <p>Next version will possibly see major overhauls, making it incompatible with all previous versions but introducing new things such as announcement on registry (to notify of new versions), possibility to reconnect on a server after being disconnected, including during a battle, without loss of data, for people with shaky connections; the RBY version implemented by nixeagle, possibilities to load several teams at once, and maybe custom pokemons made a lot easier per server and loading automatically! We'll see, but there's definitely major room for improvement, and a number of associated projects going on.</p>
+
+    <p>Anyway, bugfixes &amp; new features:</p>
+
+    <p><strong>Features:</strong><br />
+    -Team builder loading a lot faster<br />
+    -QR Code plugin, plugin manager<br />
+    -Log format containing more info<br />
+    -Channel red when pinged in a channel (Viderizer)<br />
+    -Server in System Tray (Latios)<br />
+    -Teams given in the log window in wifi battles<br />
+    -Possibility to ignore opponents in battles<br />
+    -More customizable stuff in Themes</p>
+
+    <p><strong>Bugfixes:</strong><br />
+    <fieldset class="hide"><legend><input type="button" onclick="
+
+    var element = this.parentNode.nextSibling;
+
+    if(element.style.display == 'none')
+
+            element.style.display = 'block';
+
+        else
+
+            element.style.display = 'none';" value="Secret" /></legend><div style="display : none;">- Possibility to select text in chat windows in peace now<br />
+    - Damage formula use correct random generation mechanism (I'm the culprit behind the misconception for all the DP/BW formula, sorry for that). It had really minor effect though.<br />
+    - Intimidate no longers intimidates non adjacent foes in triples<br />
+    - Telekinesis now ends correctly<br />
+    - Pickup now works correctly<br />
+    - Sorting by auth fixed (Viderizer)<br />
+    - Pickup, Recycle &amp; Harvest now work correctly together<br />
+    - Copycat was fixed after I broke it<br />
+    - Spiky pichu can't be gotten in CC gen 5 anymore<br />
+    - Chingling's Egg move combinations were fixed<br />
+    - sys.rand()'s division per zero crash fixed (Lamperi)<br />
+    - King rock now effects Icicle spear<br />
+    - End of turn orders customized per gen and all correct now<br />
+    - Shedinja no longer invincible when using false swipe<br />
+    - Protect rate works correctly now in all gens. It always had decreasing rates, it seems, though in gen 4 the decreasing stopped pretty fast.<br />
+    - Metronome's list of callable moves fixed for gen 5 (seems like it can't call V-Create or the ultimate ice moves)<br />
+    - Skill Swap was absent from gen 3, added to all the pokemon learning it in gen 3<br />
+    - Status immunity fixed in gen 3, now ice pokemon can be frozen and fire pokemon burnt by tri attack<br />
+    - Hex now does deal double damage on pokemon behind substitutes<br />
+    - Partial trapping moves now don't overwrite each other<br />
+    - Magic Guard doesn't cancel toxic spikes anymore in gen 5<br />
+    - Sap sipper now boosts attack before leech seed fails<br />
+    - uproar now ends correctly (I pray)<br />
+    - Mold breaker now works on all foes in doubles<br />
+    - Some minimum levels were updated<br />
+    - Healing wish now heals before entry hazards<br />
+    - Torment + Encore bug fixed<br />
+    - Fury cutter adapted depending on gen: in gen 3 &amp; 4, it doesn't reset power when changing moves, while it does in gen 5 (it always resets powers when it fails/misses though)<br />
+    - sys.changePokeNum() now works correctly with the gen of the player<br />
+    - Now a pokemon can use fake out even after being roared by a bounced roar<br />
+    - Magic bounce's behavior fixed in doubles<br />
+    - Sandstorm damage only deals the amount of leftovers recovery in gen 2</div></fieldset></p>
+
+    <p>So, should you get the new version of the client? If you still have the version where the server takes several seconds to load, if you have an android and don't have the version with the QR Code plugin, or if you want to use aeo's awesome replay, then yes!</p>
+
+    <p><a href="http://sourceforge.net/projects/pogeymon-online/files/Pokemon-Online-Setup.exe/download">Client Download (windows)</a><br />
+    <a href="http://pokemon-online.eu/download">Client Download (all)</a></p>
+
+<!-- ### END Page Content Area ### -->
+
+<!--#include virtual="footer.html" -->
+
+<!--#include virtual="sidebar.html" -->
+      <div id="adspace">
+        <script type="text/javascript"><!--
+        google_ad_client = "ca-pub-8181005311181820";
+        /* 120x600 pokemon-online */
+        google_ad_slot = "1278040814";
+        google_ad_width = 120;
+        google_ad_height = 600;
+        //-->
+        </script>
+        <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js" style="display: none; visibility: hidden; "></script>
+        
+        <script type="text/javascript"><!--
+        google_ad_client = "ca-pub-8181005311181820";
+        /* 120x600 pokemon-online */
+        google_ad_slot = "1278040814";
+        google_ad_width = 120;
+        google_ad_height = 600;
+        //-->
+        </script>
+        <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js" style="display: none; visibility: hidden; "></script>
+        
+        <script type="text/javascript"><!--
+        google_ad_client = "ca-pub-8181005311181820";
+        /* 120x600 pokemon-online */
+        google_ad_slot = "1278040814";
+        google_ad_width = 120;
+        google_ad_height = 600;
+        //-->
+        </script>
+        <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js" style="display: none; visibility: hidden; "></script>
+      </div>
+<!--#include virtual="end.html" -->
+</body>
+</html>

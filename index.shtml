@@ -12,6 +12,54 @@
 <!--#include virtual="nav.html" -->
 
 <!-- ### BEGIN Page Content Area ### -->
+
+    <h3><a href="http://pokemon-online.eu/forums/showthread.php?11037-1.0.53"><strong>Pokemon Online 1.0.53</strong></a></h3>
+    
+	<h6>Written by <a href="http://pokemon-online.eu/forums/member.php?1-coyotte508">coyotte508</a> on 04/Jan/2012, 00:33 </h6>
+<p>So a batch of bugfixes due to the disastrous 1.0.52.<br />
+<br />
+The download for <a href="http://sourceforge.net/projects/pogeymon-online/files/Pokemon-Online-Setup.exe/download" target="_blank" rel="nofollow">Windows</a>, <a href="http://sourceforge.net/projects/pogeymon-online/files/pokemon-server.7z/download" target="_blank" rel="nofollow">Windows Server</a> and <a href="http://sourceforge.net/projects/pogeymon-online/files/Pokemon-Online-1.0.53.dmg/download" target="_blank" rel="nofollow">Mac Snow Leopard / Lion</a> are up.<br />
+<br />
+So here what's fixed:<br />
+<br />
+<u><b>Serverside:</b></u><br />
+- some RBY bugs (stuff like Rock Slide flinching, Counter working with all physical types). The only known bug for gen 1 not fixed is the Wrap bug.<br />
+- The battlelogs plugin now works properly and doesn't crash the server<br />
+- Forfeits are now logged in the battle window and battle logs<br />
+<br />
+<u><b>Clientside:</b></u><br />
+- Tooltips now show correct stats (at least on up-to-date servers)<br />
+- U-turn/Baton Pass/Intimidate don't make the alpha battle window stop anymore<br />
+- Some translations were updated/added (including indonesian one)<br />
+- <b>Sounds don't crash XP clients anymore (at least shouldn't!)</b><br />
+- Alternate Meloetta and Darmanitan formes now show up properly<br />
+- Nicknames option is now correctly named<br />
+- Return / Frustration show correct power again in tooltips<br />
+- Removed reconnect feature that was intended for development only - incomplete feature<br />
+<br />
+Some talk about the replay feature and the palette theme:<br />
+<br />
+<u><b>Replay feature:</b></u><br />
+<br />
+Now, when you save the battle log, you also save a replay file (.poreplay extension). You can replay it by using File -&gt; open replay.<br />
+<br />
+For now, the replay window is very basic, so the only replay mode available is going at the same speed exactly as in-battle. Later there will probably be a set-delay-between-turns option added. Note that you can also play replays saved by the server, if the server has the battle logs plugin enabled.<br />
+<br />
+If you have any battle bugs or problems with replays, it'll be a good idea to provide the replay files so we can deduce the problem<br />
+<br />
+<u><b>Palette Theme:</b></u><br />
+<br />
+This is one of Deity's themes, and the theme associated with this download. It takes full advantage of the Color Changer plugin. Meaning you can easily change the color of the whole theme.<br />
+<br />
+More information <a href="http://pokemon-online.eu/forums/showthread.php?9655-Palette-v0.3&amp;p=127540&amp;viewfull=1#post127540" target="_blank">here</a>!<br />
+<br />
+Seems the color was set to bright pink by default, uploaded a blue theme at the moment instead!<br />
+<br />
+--<br />
+<br />
+I seriously hope there'll be a lot less problems with this download. Note also the presence of alpha animation window if you want it in the battle options. This is a working window for developers only, but we thought that if you wanted a taste of what may be on PO one day we shouldn't prevent you! I myself already prefer battling with this a lot, even if tooltips or HP percentage or even timers are not implemented yet. If you have any problems using it, revert to the standard old battle window, that you should've been using! (If your computer is too old, for example, you probably won't see pokemon sprites in the alpha battle window)</p>
+
+
     <h3><a href="http://pokemon-online.eu/forums/showthread.php?10869-1.0.52"><strong>Pokemon Online 1.0.52</strong></a></h3>
     
 	<h6>Written by <a href="http://pokemon-online.eu/forums/member.php?42-Lamperi">Lamperi</a> on 30/Dec/2011, 13:50 PM</h6>
